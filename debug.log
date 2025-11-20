@@ -1,13 +1,7 @@
-REFRESH
-REFRESH
-KEY D
-REFRESH
 KEY D
 REFRESH
 KEY A
 REFRESH
-KEY A
-REFRESH
 KEY S
 REFRESH
 KEY S
@@ -28,50 +22,7 @@ KEY D
 REFRESH
 KEY D
 REFRESH
-=== [21243] LEVEL INFO ===
-Dimensions: 5 x 10
-Tempo: 10
-Pacman file: ∞h™†
-Monster files (2):
-  - 0*é†
-  - êÖå˛
-
-=== BOARD ===
-WWWWWWWWWW
-W        W
-W   M    W
-W  M     W
-W       PW
-==================
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY A
-REFRESH
-KEY A
-REFRESH
-KEY S
-REFRESH
-KEY S
-REFRESH
-KEY S
-REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-=== [21243] LEVEL INFO ===
+=== [49201] LEVEL INFO ===
 Dimensions: 5 x 10
 Tempo: 10
 Pacman file: ∞h™†
@@ -83,39 +34,12 @@ Monster files (2):
 WWWWWWWWWW
 W        W
 W        W
-W  MM    W
-W       PW
+W    M   W
+W    M  PW
 ==================
 KEY D
 REFRESH
 KEY D
 REFRESH
-KEY D
+KEY A
 REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY D
-REFRESH
-KEY S
-REFRESH
-KEY S
-Killing 0 pacman
-
-REFRESH
-=== [21243] LEVEL INFO ===
-Dimensions: 5 x 10
-Tempo: 10
-Pacman file: ∞h™†
-Monster files (2):
-  - 0*é†
-  - êÖå˛
-
-=== BOARD ===
-WWWWWWWWWW
-W        W
-W        W
-W      M W
-W  M     W
-==================
